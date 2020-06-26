@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="assignment/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1493790271/assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/1493790271/assignment.iml" group="assignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-319657419/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/-319657419/shared.iml" group="assignment/shared" />
+    </modules>
+  </component>
+</project>
